@@ -33,7 +33,8 @@ int main(){
     }
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/c1e5aff8-e61d-49de-872c-9b5c2fe2c31b)
+
 
 
 
@@ -50,7 +51,8 @@ int main(){
     }
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/88f1e538-289a-4f89-b105-c9e441162cb7)
+
 
 
 Do While Loop
@@ -67,7 +69,8 @@ int main(){
         return 0;     
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/62d56b2f-9716-455c-a444-3e053b26d14e)
+
 
 
 
@@ -86,7 +89,8 @@ int main() {
     return 0;
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/5d03c011-cc8b-4706-be34-389efcfb7ade)
+
 
 
 
@@ -109,7 +113,8 @@ int main() {
     return 0;
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/e4b5d767-6f14-491f-a6bf-1f9d36902dc3)
+
 
 
 
@@ -132,7 +137,8 @@ int main() {
     return 0;
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/9cadbff7-4d0d-4a0e-8433-1960d942444e)
+
 
 
 
@@ -152,7 +158,7 @@ int main() {
     return 0;
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/e547583c-bd23-497b-a869-3a44ce2cbb27)
 
 
 While loop inside for loop:
@@ -174,7 +180,8 @@ int main() {
     return 0;
 }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/abef47fd-7c09-4ab0-8783-59ec499c33df)
+
 
 
 ```
@@ -198,7 +205,7 @@ int main(){
 cout<<endl;
     }
 ```
-O/P:
+O/P: ![image](https://github.com/user-attachments/assets/ac96cf39-0df4-4ee5-89d2-e03aba68b768)
 
 
 
