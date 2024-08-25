@@ -33,7 +33,8 @@ int main(){
     }
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/c1e5aff8-e61d-49de-872c-9b5c2fe2c31b)
+O/P: ![image](https://github.com/user-attachments/assets/76b7a341-579f-42d6-bc8c-d066cda5b992)
+
 
 
 
@@ -51,7 +52,8 @@ int main(){
     }
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/88f1e538-289a-4f89-b105-c9e441162cb7)
+O/P: ![image](https://github.com/user-attachments/assets/6056ac24-7df2-4448-9173-cea5f01e55ee)
+
 
 
 
@@ -69,8 +71,7 @@ int main(){
         return 0;     
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/62d56b2f-9716-455c-a444-3e053b26d14e)
-
+O/P:  ![image](https://github.com/user-attachments/assets/cca760b8-c0ca-4253-a0bd-f5367ead4a41)
 
 
 
@@ -89,9 +90,7 @@ int main() {
     return 0;
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/5d03c011-cc8b-4706-be34-389efcfb7ade)
-
-
+O/P:  ![image](https://github.com/user-attachments/assets/bac20ec1-803c-4241-b750-6b4d7a0372f2)
 
 
 Nested While
@@ -113,7 +112,7 @@ int main() {
     return 0;
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/e4b5d767-6f14-491f-a6bf-1f9d36902dc3)
+O/P: ![image](https://github.com/user-attachments/assets/acbf5579-c6fa-47a7-ba71-78f236b4fb89)
 
 
 
@@ -137,9 +136,7 @@ int main() {
     return 0;
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/9cadbff7-4d0d-4a0e-8433-1960d942444e)
-
-
+O/P: ![image](https://github.com/user-attachments/assets/84daaae9-deb6-40e0-b3aa-78c552af5857)
 
 
 For loop inside while loop:
@@ -158,7 +155,8 @@ int main() {
     return 0;
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/e547583c-bd23-497b-a869-3a44ce2cbb27)
+O/P: ![image](https://github.com/user-attachments/assets/23e1e9bd-a34e-49fd-abf4-751c0bb7d694)
+
 
 
 While loop inside for loop:
@@ -180,7 +178,8 @@ int main() {
     return 0;
 }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/abef47fd-7c09-4ab0-8783-59ec499c33df)
+O/P: ![image](https://github.com/user-attachments/assets/c9954e2d-12e8-41e7-b657-0b9526ca11f6)
+
 
 
 
@@ -205,7 +204,8 @@ int main(){
 cout<<endl;
     }
 ```
-O/P: ![image](https://github.com/user-attachments/assets/ac96cf39-0df4-4ee5-89d2-e03aba68b768)
+O/P: ![image](https://github.com/user-attachments/assets/8bcc5364-2e9f-45f2-b849-034bbcf04891)
+
 
 
 
